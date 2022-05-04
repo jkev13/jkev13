@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkev13
+- 👋 Hi, I’m Jishnu Krishnan
 - 👀 I’m interested in programming AI
 - 🌱 I’m currently learning ML and AI
 - 💞️ I’m looking to collaborate on AI projects
